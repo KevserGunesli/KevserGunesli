@@ -1,7 +1,7 @@
 
 ## Merhaba Dünya! 👋
 
-Ben Kevser Güneşli, Bingöl Üniversitesi Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Kod yazmaya olan tutkumla bilgisayar mühendisliğine adım attım ve sürekli öğrenme yolculuğumda ilerliyorum.
+Ben Kevser Güneşli, Bingöl Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Kod yazmaya olan tutkumla bilgisayar mühendisliğine adım attım ve sürekli öğrenme yolculuğumda ilerliyorum.
 
 ### 🚀 Hakkımda
 
