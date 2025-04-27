@@ -11,7 +11,7 @@ public class BenimHakkinda {
         String ad = "Kevser Güneşli";
         String unvan = "Bilgisayar Mühendisliği Öğrencisi";
         String[] diller = {"C", "Java", "Python", "C#"};
-        String seviye = "Orta seviye (C, Java), Başlangıç seviyesi (Python, C#)";
+        String seviye = "Orta seviye (,Python,C, Java), Başlangıç seviyesi (C#)";
         String ilgiAlanlari = "Veri Bilimi, Ağ, Siber Güvenlik,Web Geliştirme";
         
         System.out.println("Merhaba! Ben " + ad + ".");
