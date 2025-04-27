@@ -12,7 +12,7 @@ public class BenimHakkinda {
         String unvan = "Bilgisayar Mühendisliği Öğrencisi";
         String[] diller = {"C", "Java", "Python", "C#"};
         String seviye = "Orta seviye (C, Java), Başlangıç seviyesi (Python, C#)";
-        String ilgiAlanlari = "Veri Bilimi, Web Geliştirme";
+        String ilgiAlanlari = "Veri Bilimi, Ağ, Siber Güvenlik,Web Geliştirme";
         
         System.out.println("Merhaba! Ben " + ad + ".");
         System.out.println("Şu anda " + unvan + " olarak öğrenimime devam ediyorum.");
@@ -32,7 +32,7 @@ public class BenimHakkinda {
 
 ### 🌱 İlgi Alanlarım
 
-- 📊 Veri bilimi ve web geliştirme konularına ilgi duyuyorum ve bu alanlarda kendimi sürekli geliştirmek istiyorum.
+- 📊 Özellikle Veri bilimi ve Yapay zeka olmak üzere Ağ ve Siber,Web geliştirme konularına ilgi duyuyorum ve bu alanlarda kendimi sürekli geliştirmeye çalışıyorum.
 - 📚 İngilizce seviyem B2 düzeyinde ve yeni şeyler öğrenmeye daima açığım.
 
 ### 📫 Bana Nasıl Ulaşabilirsiniz?
